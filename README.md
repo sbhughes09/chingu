@@ -1,6 +1,6 @@
 # chingu
 
-Live link: https://hopeful-bose-afc034.netlify.com
+Live link: https://keen-agnesi-a0af1e.netlify.com/
 
 Overview: This project was created for the Chingu Voyage 11 prework.
 
