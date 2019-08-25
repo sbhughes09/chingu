@@ -8,11 +8,13 @@ Features: Responsive, Parallax scrolling effect
 
 Tech used/Dependencies: The site was build with HTML, CSS, JavaScript and jQuery. 
 
-  Color inspiration from: Palettab
+  Color inspiration from Color Hunt https://colorhunt.co/
 
-  Fonts from Google Fonts
+  Fonts from Google Fonts https://fonts.google.com/
 
-  Icons from Font Awesome
+  Icons from Font Awesome https://fontawesome.com/
+  
+  Photos from https://www.pexels.com
 
     
    
